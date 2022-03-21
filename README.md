@@ -1,2 +1,2 @@
 # playground
-This is where I practiced My Data Science and Machine Learning skills.
+Contains codes and files of abitrary programming experiments, practice and newly acquired knowledge
