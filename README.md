@@ -30,7 +30,7 @@ the stackoverflow link below highlights more on the problem
 https://stackoverflow.com/questions/4014827/how-can-i-compare-strings-in-c-using-a-switch-statement
 
 
-In view of this, an out of the box approach can still be applied to solve this case study... ### ARRAYS
+In view of this, an out of the box approach can still be applied to solve this case study... <h4> ARRAYS </h4>
 
 ## To run this script with local IDE
 clone the repo by running
@@ -43,7 +43,7 @@ and load it in your desired IDE (VS-CODE,Code:Blocks DevC++ etc)
 To run this script with make, you'll need a terminal and "make" installed. For each example, put the contents in a file called Makefile, and in that directory run the command make
 Run this command to build and run the program
 
-### >>> make build_run
+### >>> make build
 ### >>> make run
 or you can equally substitute the last step with
 ### >>> make run_exe
