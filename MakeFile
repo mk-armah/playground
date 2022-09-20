@@ -1,0 +1,8 @@
+build:
+	gcc hw_2.c -o hw_2.exe
+
+run:
+	hw_2
+
+run_exe:
+	hw_2.exe
