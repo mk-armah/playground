@@ -33,7 +33,8 @@ https://stackoverflow.com/questions/4014827/how-can-i-compare-strings-in-c-using
 In view of this, an out of the box approach can still be applied to solve this case study... ### ARRAYS
 
 ## To run this script with local IDE
-clone the repo using https://github.com/mk-armah/playground.git
+clone the repo by running
+### >>> git clone https://github.com/mk-armah/playground.git
 and load it in your desired IDE (VS-CODE,Code:Blocks DevC++ etc)
 
 
@@ -42,10 +43,10 @@ and load it in your desired IDE (VS-CODE,Code:Blocks DevC++ etc)
 To run this script with make, you'll need a terminal and "make" installed. For each example, put the contents in a file called Makefile, and in that directory run the command make
 Run this command to build and run the program
 
->>> make build_run
->>> make run
+### >>> make build_run
+### >>> make run
 or you can equally substitute the last step with
->>> make run_exe
+### >>> make run_exe
 
 ## Don't have Make ? 
 ##### You can still RUN ON THE TERMINAL | this step requires gcc bin and include fully set up in environment variables - <br> you can run <br> >>> gcc --version <br> at the terminal to check whether gcc has been set up properly on your pc
