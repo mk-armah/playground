@@ -48,17 +48,17 @@ or you can equally substitute the last step with
 >>> make run_exe
 
 ## Don't have Make ? 
-##### You can still RUN ON THE TERMINAL | this step requires gcc bin and include fully set up in environment variables - \ you can run \n >>> gcc --version \n at the terminal to check whether gcc has been set up properly on your pc
+##### You can still RUN ON THE TERMINAL | this step requires gcc bin and include fully set up in environment variables - <br> you can run <br> >>> gcc --version <br> at the terminal to check whether gcc has been set up properly on your pc
 
 
 Steps to Run Script at the Terminal using gcc:
 1. Open your local terminal
 2. clone the repository using https://github.com/mk-armah/playground.git
 3. change directory to playground by running   
-    >>> cd ./playground
+    #### >>> cd ./playground
 4. run the command below in your terminal to build and run the program
-    >>> gcc hw_2.c -o hw_2.exe
-    >>> hw_2 
+    #### >>> gcc hw_2.c -o hw_2.exe
+    #### >>> hw_2 
 
 
 
