@@ -4,7 +4,7 @@ Contains codes and files of abitrary programming experiments, practice and newly
 
 # Task
 
-Use switch case exclusively  to solve the following case study:
+Use switch case exclusively  to solve the case study:
 
 using the format given below, Write a script that takes user input char representing a day of the week.
 
